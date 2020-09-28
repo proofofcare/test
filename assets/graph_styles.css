@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+body {
+  margin:0;
+  background-color:#f7f7f7;
+}
+
+H1 {
+  color:#01AEEF;
+  font-family: 'Open Sans';
+  text-align: center;
+}
+
+.top_container {
+  width:100%;
+  float:left;
+}
+
+.boxes_container {
+  float:left;
+  width:20%;
+  margin:0 2% 0 2%;
+}
+
+.first_update_box {
+  padding:7% 0 7% 0;
+  margin: 0 0 5% 0;
+  text-align: center;
+  background-color: white;
+}
+
+.update_box {
+  padding:6% 0 6% 0;
+  margin: 0 0 5% 0;
+  text-align: center;
+  background-color: white;
+}
+
+.last_update_box {
+  padding:7% 0 7% 0;
+  margin:0;
+  text-align: center;
+  background-color: white;
+}
+
+.Buttons {
+  padding: 2%;
+  background: rgba(1, 174, 239, .4);
+  font-weight: bold;
+  color: white;
+}
+
+.daily_cases_container {
+  float:left;
+  width:71%;
+  background-color:white;
+}
+
+.daily_cases {
+  background-color: white;
+}
+
+.radioitem_container {
+  margin:2% 0 0 2%;
+  float:left;
+  padding:0
+}
+
+.radioitem_active_total {
+  float:left;
+}
+
+.bot_graph_container {
+  width:100%;
+  margin:2%;
+  float:left;
+}
+
+.active_total_container {
+  float:left;
+  width:47%;
+}
+
+.active_total_cases {
+  margin-right:2%;
+}
+
+.sex_age_container {
+    width:47%;
+    float:left;
+}
+
+.sex_age {
+  margin:0 2% 0 2%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**/
